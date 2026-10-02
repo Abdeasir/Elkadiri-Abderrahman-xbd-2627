@@ -4,8 +4,6 @@
 
 ### UNIDAD: 1
 
-### NOMBRE-PRÁCTICA:
-
-### TITULO: P01-Markdown
+### NOMBRE-PRÁCTICA: P01-Markdown
 
 ### FECHA: 2/octubre/2026
