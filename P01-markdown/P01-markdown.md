@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- omit in toc -->
 # Gestion de bases de datos
 
@@ -9,12 +11,19 @@
 
 ### FECHA: 2/octubre/2026
 
+</div>
+
+
+
 - [Tarea 1](#tarea-1)
 - [Exámenes](#exámenes)
 - [Exámenes ordenados](#exámenes-ordenados)
+- [Checklist](#checklist)
 - [Citas](#citas)
+- [Tabla](#tabla)
 - [Bibliografía](#bibliografía)
 
+<div style="page-break-after:always;"></div>
 
 <p aling="center">
 <img src="img/logo-ies-lpn-branco.png" alt="IES Lois Peña Novo" width="180"/>
@@ -47,6 +56,11 @@ Otra forma
   1. FUHA
   2.  PAR
    
+
+# Checklist
+- [X] Leer teoría UD1
+- [x] Hacer resumen UD1
+
    # Citas
 
    > Eso es una cita o un comentario
@@ -62,8 +76,33 @@ FROM
 EMPLEADOS
 ``````
 
+# Tabla 
+
+| Alumno    | Grupo  | Edad |
+| --------- | ------ | ---- |
+| Alejandro | ASIR 1 | 20   |
+| Alexandre | ASIR 1 | 22   |
+|           |        |      |
+
+
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+
 
 
 # Bibliografía
 
-[Google][https://google.com]
+[Google](https://google.com)
+
