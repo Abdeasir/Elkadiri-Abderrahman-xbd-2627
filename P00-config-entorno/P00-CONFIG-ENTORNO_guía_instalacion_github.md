@@ -7,13 +7,15 @@
 
 ### UNIDAD: 1
 
-### NOMBRE-PRÁCTICA: INFORME-GUÍA USO E INSTALACIÓN DE GIT, GITHUB Y GITHUB-DESKTOP
+
 </div>
 
 ### FECHA: 8/octubre/2026
+  
 
 
 
+### ÍNDICE:
 
 - [Instalación de Git](#instalación-de-git)
 - [2 : GITHUB- CREACIÓN DE CUENTA:](#2--github--creación-de-cuenta)
@@ -25,12 +27,13 @@
   
 
 
+<div align="center">0
 
-<p aling="center">
 <img src="img/logo-ies-lpn-branco.png" alt="IES Lois Peña Novo" width="180"/>
+</div>
 
 
-</p>
+
 
 
 
@@ -38,24 +41,23 @@
 
  1 Instalamos Git x64 para windows, a la hora de instalar nos saldrá una ventana donde debemos seleccionar la opción que ponga "Nova"
 
-
-
-<img src="![alt text](2.png)>
+![alt text](img\2.png)
 
 # 2 : GITHUB- CREACIÓN DE CUENTA:
 
  Accedemos a la web de github, sino tenemos una cuenta nos registraremos y creamos una cuenta y un repositorio: 
 
-![alt text](4-2.png)
 
-<img src="![alt text](4.png)
 
+
+![alt text](img\4.png)
 
 # 3 : GITHUB DESKTOP
 
  Lo instalamos y configuramos, posteriormente **muy importante clonar el repositorio**( así github podrá detectar los cambios que se realizen) , tanto desde casa como desde el aula. Todo esto en la carpeta correspondiente.
  
-<img src="![alt text](8.png)>
+
+![alt text](img\8.png)
 
 Una vez hecho esto ya tendremos la carpeta del repositorio en nuestro equipos, tanto el particular como el del aula
 
@@ -79,12 +81,13 @@ Si de lo contrario buscamos descargar nuestros archivos guardados en la nube a n
 
 # Bibliografía
 
--(https://git-scm.com/)
+Página web oficial de Git-->  -(https://git-scm.com/)
 
--(https://github.com/)
+Página web oficial de Github-->    -(https://github.com/)
 
--(https://desktop.github.com/download/)
+Instalador de Github desktop-->  -(https://desktop.github.com/download/)
 
+Visual Studio Code-->  -(https://code.visualstudio.com/) 
 
 
 
