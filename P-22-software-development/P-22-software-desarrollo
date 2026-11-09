@@ -1,0 +1,104 @@
+/div align="center">/
+
+<!-- omit in toc -->
+# Gestion de bases de datos
+
+## Abderrahman
+
+### UNIDAD: 2
+
+### NOMBRE-PRÁCTICA: P-22-software-desarrollo
+
+### FECHA: 09/11/2026
+
+</div>
+
+
+
+- [ El ciclo de vida del desarrollo software](#el-ciclo-de-vida-del-desarrollo-software)
+- [Exámenes](#exámenes)
+- [Exámenes ordenados](#exámenes-ordenados)
+- [Checklist](#checklist)
+- [Citas](#citas)
+- [Tabla](#tabla)
+- [Bibliografía](#bibliografía)
+
+<div style="page-break-after:always;"></div>
+
+<p aling="center">
+<img src="img/logo-ies-lpn-branco.png" alt="IES Lois Peña Novo" width="130"/>
+
+</p>
+
+# El ciclo de vida del desarrollo software
+
+El ciclo de vida del desarrollo de software, SDLC (Software Development Life Cycle) es el proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir.
+
+El ciclo de vida abarca el ciclo de desarrollo y el debido mantenimiento.
+
+
+**Texto en negrita**
+*Otra forma*
+
+*Texto en cursiva*
+
+*Otra forma* (crtl i)
+
+~~Texto tachado~~
+
+Otra forma
+
+
+
+
+# Checklist
+- [X] Leer teoría UD1
+- [x] Hacer resumen UD1
+
+   # Citas
+
+   > Eso es una cita o un comentario
+
+   `Select * from empleados`
+
+---
+
+``````
+SELECT
+*
+FROM
+EMPLEADOS
+``````
+
+# Tabla 
+
+| Alumno    | Grupo  | Edad |
+| --------- | ------ | ---- |
+| Alejandro | ASIR 1 | 20   |
+| Alexandre | ASIR 1 | 22   |
+|           |        |      |
+
+
+|     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |
+
+
+
+# Bibliografía
+
+[Intelequia](https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber)
+
+
+[AWS](https://aws.amazon.com/es/what-is/sdlc/)
